@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Some text
+
 ## Purpose
 
 ## Deployment
